@@ -54,6 +54,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+#secret_key
+secret_settings.py
+
 # Translations
 *.mo
 *.pot
